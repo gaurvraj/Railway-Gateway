@@ -13,3 +13,6 @@ Integration with sensors for detecting approaching trains and vehicles.
 
 Logging and reporting functionality for system events and incidents.
 
+# Software used:- 
+Proteus, Keil 
+
