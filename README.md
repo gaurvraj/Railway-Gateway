@@ -4,8 +4,12 @@ The Automated Railway Gateway System is a software solution designed to streamli
 
 # Features:-
 Automated control of railway gates based on train schedules and sensor inputs.
+
 Real-time monitoring of railway gate status.
+
 User-friendly interface for configuring and managing gate control parameters.
+
 Integration with sensors for detecting approaching trains and vehicles.
+
 Logging and reporting functionality for system events and incidents.
 
