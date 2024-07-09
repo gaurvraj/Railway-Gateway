@@ -16,3 +16,6 @@ Logging and reporting functionality for system events and incidents.
 # Software used:- 
 Proteus, Keil 
 
+# Snipped/ Screenshot taken:
+![image](https://github.com/gaurvraj/Railway-Gateway/assets/128407887/2e09d6ee-346d-4623-9d2d-bfa04e5c135b)
+
